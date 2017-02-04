@@ -1,0 +1,38 @@
+{
+    "Date": "2017-02-04",
+    "Android": {
+        "Latest": "A002",
+        "SHA256": "1791268968e512c433caaac8cf363849a64e5db1ba14ac78494e9dc9cfaa7ed4",
+        "Mirrors": [
+            "https://dl.geph.io/android-builds/geph-android-A002.apk"
+        ]
+    },
+    "Windows": {
+        "Latest": "D002",
+        "SHA256": "064c372cec31d082ddc19adbc4a6f42106766070e504780110473c950269e254",
+        "Mirrors": [
+            "https://dl.geph.io/desktop-builds/geph-windows-D002-setup.exe"
+        ]
+    },
+    "MacOS": {
+        "Latest": "D002",
+        "SHA256": "d465d0ff8fdce625abaa25636f87d1381dcc3361c118dc5ee5eb69512726fc1e",
+        "Mirrors": [
+            "https://dl.geph.io/desktop-builds/geph-macos-D002.dmg"
+        ]
+    },
+    "Linux32": {
+        "Latest": "D002",
+        "SHA256": "593336e8e13769eb866a17892d9266336f7ea4aac48c3a73254015c788a3abf5",
+        "Mirrors": [
+            "https://dl.geph.io/desktop-builds/geph-linux32-D002.AppImage"
+        ]
+    },
+    "Linux64": {
+        "Latest": "D002",
+        "SHA256": "db1bcfea1362a10da4cea8323cada13f1d01646f23160cc5f32c288e066d0cd3",
+        "Mirrors": [
+            "https://dl.geph.io/desktop-builds/geph-linux64-D002.AppImage"
+        ]
+    }
+}

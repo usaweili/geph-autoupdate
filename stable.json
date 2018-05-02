@@ -1,10 +1,10 @@
 {
     "Date": "2017-05-02",
     "Android": {
-        "Latest": "A003",
-        "SHA256": "3046b820047230fc177ee453cb6a74f56da6fcb30127967ab486a34f55015222",
+        "Latest": "A004",
+        "SHA256": "1a5b315ba5cde4310f08e7d8217c808c9623cb8b7b9b77566f9a46be0821364a",
         "Mirrors": [
-            "https://dl.geph.io/android-builds/geph-android-A003.apk"
+            "https://dl.geph.io/android-builds/geph-android-A004.apk"
         ]
     },
     "Windows": {

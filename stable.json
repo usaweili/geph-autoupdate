@@ -8,10 +8,10 @@
         ]
     },
     "Windows": {
-        "Latest": "2.0.2",
-        "SHA256": "3da29ad8393e2cb277cfcc7b3df7191b1a1d4c586207b85bb0ae656fb60aa32d",
+        "Latest": "2.1.0",
+        "SHA256": "5234122d8cd8ec26bfac8c3c5186874cdedc251d632598e96c23aa62998b7dc8",
         "Mirrors": [
-            "https://dl.geph.io/desktop-builds/geph-windows-2.0.2-setup.exe"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-2.1.0-setup.exe"
         ]
     },
     "MacOS": {
@@ -22,17 +22,17 @@
         ]
     },
     "Linux32": {
-        "Latest": "2.0.2",
-        "SHA256": "56b6ce0df09fafedd2f93f6786f96f4e35a11c26db14e6a11199c365e3bd2ff9",
+        "Latest": "2.1.0",
+        "SHA256": "847921f2f62b5c2c7776206296375c235876ceb41526ae3565e7a2c450d9e604",
         "Mirrors": [
-            "https://dl.geph.io/desktop-builds/geph-linux32-2.0.2.AppImage"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux32-2.1.0.AppImage"
         ]
     },
     "Linux64": {
-        "Latest": "2.0.2",
-        "SHA256": "58d3e00da191df2dac9bd35d29c2835965e0a302469a0a68a0591abba0e45072",
+        "Latest": "2.1.0",
+        "SHA256": "f23e53780e7ad4e3600fdeb7b4c6f80e1e4e9f99b2975fabd3d39b971a6c36e9",
         "Mirrors": [
-            "https://dl.geph.io/desktop-builds/geph-linux64-2.0.2.AppImage"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage"
         ]
     }
 }

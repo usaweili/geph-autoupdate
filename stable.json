@@ -1,10 +1,10 @@
 {
     "Date": "2018-08-24",
     "Android": {
-        "Latest": "A007",
-        "SHA256": "75df1ac817503bd9dec539b911c872672d5f9d4b7394c1116fa4b3ae7b4488a1",
+        "Latest": "2.1.0",
+        "SHA256": "6bf317efc86015649de6340fdd30625c3e937f64ad5ca62407a600c5f6ae3376",
         "Mirrors": [
-            "https://dl.geph.io/android-builds/geph-android-A007.apk"
+            "https://f001.backblazeb2.com/file/geph-dl/android-builds/geph-android-2.1.0.apk"
         ]
     },
     "Windows": {

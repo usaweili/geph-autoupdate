@@ -2,35 +2,35 @@
     "Date": "2018-08-24",
     "Android": {
         "Latest": "2.1.0",
-        "SHA256": "b51b140958011d42a877c18c20e15d223fee9e5b91638660dcff1f4bdd5ef116",
+        "SHA256": "",
         "Mirrors": [
             "https://f001.backblazeb2.com/file/geph-dl/android-builds/geph-android-2.1.0.apk"
         ]
     },
     "Windows": {
         "Latest": "2.1.0",
-        "SHA256": "5234122d8cd8ec26bfac8c3c5186874cdedc251d632598e96c23aa62998b7dc8",
+        "SHA256": "",
         "Mirrors": [
             "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-2.1.0-setup.exe"
         ]
     },
     "MacOS": {
-        "Latest": "2.0.2",
-        "SHA256": "3b0e38403febc191479541d5f81e5ada20efee7fc3ff5e8f51368f8956fddade",
+        "Latest": "2.1.0",
+        "SHA256": "",
         "Mirrors": [
-            "https://dl.geph.io/desktop-builds/geph-macos-2.0.2.dmg"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-2.1.0.dmg"
         ]
     },
     "Linux32": {
         "Latest": "2.1.0",
-        "SHA256": "847921f2f62b5c2c7776206296375c235876ceb41526ae3565e7a2c450d9e604",
+        "SHA256": "",
         "Mirrors": [
             "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux32-2.1.0.AppImage"
         ]
     },
     "Linux64": {
         "Latest": "2.1.0",
-        "SHA256": "f23e53780e7ad4e3600fdeb7b4c6f80e1e4e9f99b2975fabd3d39b971a6c36e9",
+        "SHA256": "",
         "Mirrors": [
             "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-2.1.0.AppImage"
         ]

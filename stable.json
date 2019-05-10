@@ -2,7 +2,7 @@
     "Date": "2018-08-24",
     "Android": {
         "Latest": "2.1.0",
-        "SHA256": "6bf317efc86015649de6340fdd30625c3e937f64ad5ca62407a600c5f6ae3376",
+        "SHA256": "b51b140958011d42a877c18c20e15d223fee9e5b91638660dcff1f4bdd5ef116",
         "Mirrors": [
             "https://f001.backblazeb2.com/file/geph-dl/android-builds/geph-android-2.1.0.apk"
         ]

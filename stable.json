@@ -8,10 +8,10 @@
         ]
     },
     "Windows": {
-        "Latest": "2.1.0",
+        "Latest": "v2.1.1",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-2.1.0-setup.exe"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-v2.1.1-setup.exe"
         ]
     },
     "MacOS": {

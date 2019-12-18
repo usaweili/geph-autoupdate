@@ -15,10 +15,10 @@
         ]
     },
     "MacOS": {
-        "Latest": "3.0.7",
+        "Latest": "3.1.0",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-3.0.7.dmg"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-3.1.0.dmg"
         ]
     },
     "Linux32": {

@@ -1,38 +1,38 @@
 {
     "Date": "2018-08-24",
     "Android": {
-        "Latest": "3.1.0",
+        "Latest": "3.1.1",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/android-builds/geph-android-3.1.0.apk"
+            "https://f001.backblazeb2.com/file/geph-dl/android-builds/geph-android-3.1.1.apk"
         ]
     },
     "Windows": {
-        "Latest": "3.1.0",
+        "Latest": "3.1.1",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.1.0-setup.exe"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.1.1-setup.exe"
         ]
     },
     "MacOS": {
-        "Latest": "3.1.0",
+        "Latest": "3.1.1",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-3.1.0.dmg"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-3.1.1.dmg"
         ]
     },
     "Linux32": {
-        "Latest": "3.1.0",
+        "Latest": "3.1.1",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux32-3.1.0.tar.bz2"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux32-3.1.1.tar.bz2"
         ]
     },
     "Linux64": {
-        "Latest": "3.1.0",
+        "Latest": "3.1.1",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-3.1.0.tar.bz2"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-3.1.1.tar.bz2"
         ]
     }
 }

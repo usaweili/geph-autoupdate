@@ -8,31 +8,31 @@
         ]
     },
     "Windows": {
-        "Latest": "3.1.4",
+        "Latest": "3.1.5",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.1.4-setup.exe"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-windows-3.1.5-setup.exe"
         ]
     },
     "MacOS": {
-        "Latest": "3.1.4",
+        "Latest": "3.1.5",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-3.1.4.dmg"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-macos-3.1.5.dmg"
         ]
     },
     "Linux32": {
-        "Latest": "3.1.4",
+        "Latest": "3.1.5",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux32-3.1.4.tar.bz2"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux32-3.1.5.tar.bz2"
         ]
     },
     "Linux64": {
-        "Latest": "3.1.4",
+        "Latest": "3.1.5",
         "SHA256": "",
         "Mirrors": [
-            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-3.1.4.tar.bz2"
+            "https://f001.backblazeb2.com/file/geph-dl/desktop-builds/geph-linux64-3.1.5.tar.bz2"
         ]
     }
 }
